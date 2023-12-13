@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Nofira : Marketplace - Inspiration of AliBaba - Moroccan  <br><br><br>🌱 I’m currently learning : Three Js<br><br>
+ <br><br><br>🌱 I’m currently learning : Vue Js and styleX<br><br>
 
 
 ## 🌐 Socials:
